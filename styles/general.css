@@ -1,0 +1,18 @@
+a {
+  text-decoration: none;   /* remove underline */
+  color: inherit;          /* use normal text color */
+  display: block;          /* make the whole card clickable */
+}
+p {
+            font-family: Roboto;
+            margin-top: 0px;
+            margin-bottom: 0px;
+        }
+body{
+    margin:0;
+    padding-top:80px;
+    height:1000px;
+    padding-left:96px;
+    padding-right:24px;
+    background-color:rgb(248,248,248);
+}
